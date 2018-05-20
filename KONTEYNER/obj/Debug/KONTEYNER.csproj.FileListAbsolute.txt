@@ -1,0 +1,21 @@
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\bin\Debug\KONTEYNER.exe.config
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\bin\Debug\KONTEYNER.exe
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\bin\Debug\KONTEYNER.pdb
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.csprojResolveAssemblyReference.cache
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.Form1.resources
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.Form2.resources
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.Properties.Resources.resources
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.csproj.GenerateResource.Cache
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.exe
+c:\users\hp\Desktop\visuol stdio\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.pdb
+D:\GitHupADD\KONTEYNER\KONTEYNER\bin\Debug\KONTEYNER.exe.config
+D:\GitHupADD\KONTEYNER\KONTEYNER\bin\Debug\KONTEYNER.exe
+D:\GitHupADD\KONTEYNER\KONTEYNER\bin\Debug\KONTEYNER.pdb
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.csprojAssemblyReference.cache
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.Form1.resources
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.Form2.resources
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.Properties.Resources.resources
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.csproj.GenerateResource.cache
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.csproj.CoreCompileInputs.cache
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.exe
+D:\GitHupADD\KONTEYNER\KONTEYNER\obj\Debug\KONTEYNER.pdb
